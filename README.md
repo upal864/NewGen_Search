@@ -38,7 +38,7 @@ NextGen Search follows a client-server architecture:
 
 1. **Clone the repository**
    ```bash
-   
+   git clone https://github.com/upal864/NextGen_Search.git
    cd NextGen_Search
 
 2. **Set up the server**
